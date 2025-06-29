@@ -1,6 +1,6 @@
 # 🧠 ANN-Application - Customer Churn Prediction
 
-This project was a part of Generative AI Complete Bootcamp - NLP, Transformers & Gen AI in Udemy.
+This project is a part of Generative AI Complete Bootcamp - NLP, Transformers & Gen AI in Udemy.
 This project is a **Streamlit-based web application** that predicts whether a bank customer is likely to churn or stay, using a trained **Artificial Neural Network (ANN)** built with **TensorFlow Keras**.
 
 ---
